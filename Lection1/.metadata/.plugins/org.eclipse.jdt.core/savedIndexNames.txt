@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+D:\University\OOP and databases\Lection1\.metadata\.plugins\org.eclipse.jdt.core
+3192046312.index
+2139481527.index
+3695285636.index
+378753145.index
+1248545562.index
+2231680392.index

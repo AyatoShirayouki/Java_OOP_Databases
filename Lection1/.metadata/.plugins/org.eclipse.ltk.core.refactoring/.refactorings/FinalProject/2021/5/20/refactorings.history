@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;user_id&apos; in &apos;MainFrame&apos; to &apos;userId&apos;&#x0D;&#x0A;- Original project: &apos;FinalProject&apos;&#x0D;&#x0A;- Original element: &apos;MainFrame.user_id&apos;&#x0D;&#x0A;- Renamed element: &apos;MainFrame.userId&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;user_id&apos;" flags="589830" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;{MainFrame.java[MainFrame^user_id" name="userId" references="true" setter="false" stamp="1620649893386" textual="false" version="1.0"/>
+</session>
